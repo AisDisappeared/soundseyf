@@ -71,6 +71,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, please contact [Aliseyfi0841@gmail.com](mailto:Aliseyfi0841@gmail.com).
 
----
-
-Feel free to adjust the content to better fit your project or add any additional sections you think are necessary.
