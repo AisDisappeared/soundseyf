@@ -13,32 +13,45 @@ Soundseyf is a Django-based web application dedicated to flamenco and classical 
 
 ## Installation
 
-1. Clone the repository:
-  
-   git clone <https://github.com/AisDisappeared/soundseyf.git>
+1- Clone the repository:
 
-2. Navigate to the project directory:
-  
+   ~~~bash
+   git clone https://github.com/AisDisappeared/soundseyf.git
+   ~~~
+
+2- Navigate to the project directory:
+
+  ~~~bash
    cd soundseyf
+  ~~~
 
-3. Create and activate a virtual environment:
-  
+3- Create and activate a virtual environment:
+
+   ~~~bash
    python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   ~~~
 
-4. Install the required dependencies:
-  
+   source venv/bin/activate  //  # On Windows use `venv\Scripts\activate`
+
+4- Install the required dependencies:
+
+  ~~~bash
    pip install -r requirements.txt
+  ~~~
 
-5. Apply migrations:
-  
+5- Apply migrations:
+
+   ~~~bash
    python manage.py migrate
+   ~~~
 
-6. Run the development server:
-  
+6- Run the development server:
+
+   ~~~bash
    python manage.py runserver
+   ~~~
 
-7. Visit <http://127.0.0.1:8000/> in your browser.
+7- Visit <http://127.0.0.1:8000/> in your browser.
 
 ## Usage
 
@@ -70,4 +83,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For any questions or feedback, please contact [Aliseyfi0841@gmail.com](mailto:Aliseyfi0841@gmail.com).
-
